@@ -19,7 +19,7 @@ Joining our organization is straight forward. contact@mail.izom.net with subject
 
 ## 🚨 Reporting Issues
 
-If you have concerns against: DMCA, License violation, etc., contact our contact@mail.izom.net]
+If you have concerns against: DMCA, License violation, etc., contact contact@mail.izom.net
 
 ## 🌐 Stay Connected
 
