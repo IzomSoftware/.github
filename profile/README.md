@@ -8,7 +8,7 @@ We're an organization publishing open-source/closed-source software that impacts
 
 ## 🤝 Join Us
 
-Joining our organization is straight forward. (email)[mailto:contact@mail.izom.net] with subject "contributor apply". List your skills, tell us about you, and we'll look into it. Our key value is trust. 
+Joining our organization is straight forward. contact@mail.izom.net with subject "contributor apply". List your skills, tell us about you, and we'll look into it. Our key value is trust. 
 
 ## 🌐 Our Values
 
@@ -19,7 +19,7 @@ Joining our organization is straight forward. (email)[mailto:contact@mail.izom.n
 
 ## 🚨 Reporting Issues
 
-If you have concerns against: DMCA, License violation, etc., contact our (contact)[mailto:contact@mail.izom.net] 
+If you have concerns against: DMCA, License violation, etc., contact our contact@mail.izom.net]
 
 ## 🌐 Stay Connected
 
